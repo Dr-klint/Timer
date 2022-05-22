@@ -1,0 +1,10 @@
+@import url(style.css);
+@import url(about.css);
+
+.contact__input {
+  width: 100%;
+}
+
+.contact__input:focus {
+  outline: none;
+}
